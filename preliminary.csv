@@ -1,0 +1,12 @@
+Test,Embryo,Volume.L,Volume.R
+Uninjected,1,42385.6,52202
+Uninjected,2,50237,31233.1
+Uninjected,3,36584.3,48971.3
+Uninjected,4,50691.8,38769.8
+Uninjected,5,55141.1,42136.1
+dbx1b,1,5574.2,6804
+dbx1b,2,12583.9,9943.7
+dbx1b,3,6055.3,6464.1
+dbx1b,4,10879,8481.7
+lrp5,1,64057.1,37502.8
+"Note: all embryos were left outside of the incubator overnight on Day 0 (1800hrs-900hrs), might have disrupted nodal flow and lead to situs inversus",,,
